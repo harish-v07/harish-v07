@@ -4,3 +4,9 @@
   <a target="_blank"href="https://www.linkedin.com/in/HarishV07"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:vharish7100@gmail.com?subject=Hello%20Harish,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
+
+</div>
+<br>
+<div align="center">
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-v07&show_icons=true&locale=en" alt="harish-v07" /></p>
+</div>
