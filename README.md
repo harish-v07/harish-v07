@@ -24,6 +24,6 @@
 <br>
 <h2  align="center">GitHub Stats</h2>
 <div align="center">
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=harish-v07&show_icons=true&locale=en" alt="harish-v07" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harish-v07&show_icons=true&theme=gotham" alt="harish-v07" />
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
