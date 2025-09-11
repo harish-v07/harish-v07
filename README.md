@@ -1,5 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48"></a> , I'm Harish</h1>
+
+<h1 align="center">
+  Hello &nbsp;
+  <a href="https://avipatilweb.ml/">
+    <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">
+  </a>
+  , I'm Harish
+  &nbsp;
+  <a href="https://harish-v-portfolio.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/ View%20Portfolio-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
+  </a>
+</h1>
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
 
@@ -9,9 +20,6 @@
     <img src="https://skillicons.dev/icons?i=java,py,github,git,mongodb,mysql,react,c,html,css,vscode,idea,postman" />
   </a>
 </p>
-
-
-
 
 
 <h2  align="center">🌐 Connect with Me</h2>
