@@ -1,12 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
 <h1 align="center">
-  Hello &nbsp;
-  <a href="https://avipatilweb.ml/">
-    <img src="https://github.com/KenanGain/KenanGain/blob/main/icons/wave.gif" width="48">
-  </a>
-  , I'm Harish
-  &nbsp;
+  Hi, I'm Harish! 👋
   <a href="https://harish-v-portfolio.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/ View%20Portfolio-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
   </a>
