@@ -2,9 +2,6 @@
 
 <h1 align="center">
   Hi, I'm Harish! 👋
-  <a href="https://harish-v-portfolio.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/ View%20Portfolio-0078D7?style=for-the-badge&logo=microsoft-edge&logoColor=white" />
-  </a>
 </h1>
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
