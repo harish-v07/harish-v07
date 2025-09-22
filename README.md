@@ -15,12 +15,17 @@
 
 
 <h2  align="center">🌐 Connect with Me</h2>
-<p align="center">
-  <a target="_blank"href="https://www.linkedin.com/in/HarishV07"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:vharish7100@gmail.com?subject=Hello%20Harish,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://github.com/harish-v07" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-%23121011?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-</p>
+<div align="center" style="vertical-align: middle !important;">
+<a href="https://www.linkedin.com/in/harishv07" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="aadhavan313" /></a>
+<a href="mailto:vharish7100@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="vharish7100@gmail.com" /></a>
+<a href="https://www.leetcode.com/harish0710" target="blank"><img align="center" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="harish0710" /></a>
+<a href="https://www.hackerrank.com/profile/vharish7100" target="blank"><img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="vharish7100" /></a>
+</a>
+</div>
+
+
+
+
 <br>
 <h2  align="center">GitHub Stats</h2>
 <div align="center">
