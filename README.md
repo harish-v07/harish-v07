@@ -29,6 +29,8 @@
 <br>
 <h2  align="center">GitHub Stats</h2>
 <div align="center">
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=harish-v07&show_icons=true&theme=gotham" alt="harish-v07" />
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harish-v07&theme=gotham&hide_border=false" />
+
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
